@@ -28,7 +28,7 @@ const Navigation = () => {
         </div>
 
          
-        <div className="flex gap-8 lg:ml-[300px] mx-auto">
+        <div className="flex gap-8 lg:ml-[420px] ">
           <p className="whitespace-nowrap cursor-pointer">Features</p>
           <p className="whitespace-nowrap cursor-pointer">How it Works</p>
           <p className="whitespace-nowrap cursor-pointer">Communities</p>

@@ -8,9 +8,9 @@ const Hero = () => {
         
         <div className="text-white ">
           <h1 className="text-2xl md:text-5xl font-bold leading- text-left">
-            Your Space for <br />
-            Anonymous Kind <br />
-            Messages & <br />
+            Your Space for 
+            Anonymous Kind
+            Messages & 
             Birthday Wishes
           </h1>
 
