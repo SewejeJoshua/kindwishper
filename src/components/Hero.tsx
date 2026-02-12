@@ -1,4 +1,4 @@
-import React from "react";
+
 import Poly from "../assets/images/groupfour.png";
 
 const Hero = () => {
