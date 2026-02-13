@@ -23,7 +23,7 @@ const Navigation = () => {
       }
       `} >
         
-        <div className="text-xl font-bold pl-[50px]" style={{ fontFamily: "Creato Display" }}>
+        <div className="text-xl font-bold pl-[40px]" style={{ fontFamily: "Creato Display" }}>
           KindWishper
         </div>
 
