@@ -4,17 +4,17 @@ import Poly from "../assets/images/groupfour.png";
 const Hero = () => {
   return (
     <div className="bg-[#8A60FD] min-h-auto w-auto overflow-hidden">
-      <div className="max-w-6xl mx-auto px-10 py-25 grid grid-cols-2  md:pt-30">
+      <div className="max-w-6xl mx-auto px-10 py-25 grid grid-cols-2  md:pt-35">
         
         <div className="text-white ">
-          <h1 className="text-2xl md:text-5xl font-bold leading- text-left">
+          <h1 className="text-2xl md:text-5xl font-bold leading-snug text-left w-auto lg:w-[400px]">
             Your Space for 
             Anonymous Kind
             Messages & 
             Birthday Wishes
           </h1>
 
-          <p className="text-sm md:text-base mt-6 max-w-lg text-left">
+          <p className="text-sm md:text-base mt-6 max-w-[450px] justify-center left-0">
             Receive anonymous birthday wishes and kind messages
             through your personal link and communities, from people
             who care, shared in a safe space.

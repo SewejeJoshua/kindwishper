@@ -18,12 +18,12 @@ const Navigation = () => {
       <div className= {`hidden md:flex items-center text-white justify-between max-w-7xl mx-auto py-4 px-6 
                       ${
         isScrolled
-          ? "bg-background/95 backdrop-blur-md shadow-sm border-b border-border"
+          ? "bg-background/95 backdrop-blur-md shadow-sm   border-border"
           : "bg-transparent"
       }
       `} >
         
-        <div className="text-xl font-bold pl-[20px]" style={{ fontFamily: "Creato Display" }}>
+        <div className="text-xl font-bold pl-[60px]" style={{ fontFamily: "Creato Display" }}>
           KindWishper
         </div>
 
