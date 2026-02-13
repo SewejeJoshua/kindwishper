@@ -4,10 +4,10 @@ import Poly from "../assets/images/groupfour.png";
 const Hero = () => {
   return (
     <div className="bg-[#8A60FD] min-h-auto w-auto overflow-hidden">
-      <div className="max-w-6xl mx-auto px-10 py-25 grid grid-cols-2  md:pt-35">
+      <div className="max-w-6xl mx-auto px-5 py-25 grid grid-cols-2  md:pt-35">
         
         <div className="text-white ">
-          <h1 className="text-xl md:text-5xl font-bold leading-snug text-left w-auto lg:w-[400px]">
+          <h1 className="text-xl md:text-[55px] font-bold leading-snug text-left w-auto lg:w-[450px]">
             Your Space for
             Anonymous Kind
             Messages & 
@@ -25,7 +25,7 @@ const Hero = () => {
           </button>
         </div>
 
-        <div className=" md:ml-25 ml-[20px] top-0 bottom-0 mt-0">
+        <div className=" md:ml-35 ml-[20px] top-0 bottom-0 mt-0">
           <img src={Poly} className="w-[350px] h-[400px] " alt="Polygon" />
         </div>
 
