@@ -7,8 +7,8 @@ const Hero = () => {
       <div className="max-w-6xl mx-auto px-10 py-25 grid grid-cols-2  md:pt-35">
         
         <div className="text-white ">
-          <h1 className="text-2xl md:text-5xl font-bold leading-snug text-left w-auto lg:w-[400px]">
-            Your Space for 
+          <h1 className="text-xl md:text-5xl font-bold leading-snug text-left w-auto lg:w-[400px]">
+            Your Space for
             Anonymous Kind
             Messages & 
             Birthday Wishes
@@ -20,12 +20,12 @@ const Hero = () => {
             who care, shared in a safe space.
           </p>
 
-          <button className="bg-[#C2FF40] text-black w-[200px] py-4 px-2 lg:py-3 lg:py-2 rounded-full  mt-8">
+          <button className="bg-[#C2FF40] text-black w-[200px] lg:w-[200px] py-4 px-3 lg:py-3 lg:py-2 rounded-full  mt-8">
             Get Your Message Link
           </button>
         </div>
 
-        <div className=" md:ml-25 md:mt-0">
+        <div className=" md:ml-25 ml-[20px] top-0 bottom-0 mt-0">
           <img src={Poly} className="w-[350px] h-[400px] " alt="Polygon" />
         </div>
 
